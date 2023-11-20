@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jomarberdejo
 - 👀 I’m interested in building websites and doing stuff specially coding.
-- 🌱 I’m currently learning HTML5, JavaScript, CSS3 and Python Programming Language.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML5, JavaScript, CSS3 and React JS.
 - 📫 You can reach me in this email: jomar.berdejo1@gmail.com
 
 <!---
