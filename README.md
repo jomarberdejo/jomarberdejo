@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about building nteractive, user fri
   - Node.js
   - Express
 
-- 🛠️ Proficient in using utility-first CSS frameworks like Tailwind CSS.
+- 🛠️ Experience in working with utility-first CSS frameworks like Tailwind CSS.
 - 🎨 Familiar with UI component libraries such as Material-UI.
 
 ## 🌱 Learning and Growing
