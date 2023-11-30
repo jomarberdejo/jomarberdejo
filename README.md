@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Jomar Berdejo - Aspiring Web Developer 👨‍💻
 
-Welcome to my GitHub profile! I'm passionate about building nteractive, user friendly and functional websites.
+Welcome to my GitHub profile! I'm passionate about building interactive, user friendly and functional websites.
 
 ## 👀 What I'm into
 - 💻 Currently exploring the realms of:
