@@ -1,9 +1,9 @@
 # 👋 Hello, I'm Jomar Berdejo - Aspiring Web Developer 👨‍💻
 
-Welcome to my GitHub profile! I'm passionate about building interactive, user friendly and functional websites.
+Pssionate about building interactive, user friendly and functional websites.
 
 ## 👀 What I'm into
-- 💻 Currently exploring the realms of:
+- 💻 Currently deepen my knowledge of the following:
   - React JS
   - Mongo DB
 
