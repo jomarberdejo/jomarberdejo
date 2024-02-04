@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Jomar Berdejo - Aspiring Web Developer 👨‍💻
+# 👋 Hello, I'm Jomar Berdejo - Web Developer 👨‍💻
 
 Pssionate about building interactive, user friendly and functional websites.
 
