@@ -6,12 +6,16 @@ Pssionate about building interactive, user friendly and functional websites.
 - 💻 Currently deepen my knowledge of the following:
   - React JS
   - Mongo DB
+  - TypeScript
 
 - 🌐 Basic understanding of backend technologies, including:
   - PHP
   - MySQL
   - Node.js
   - Express
+  - Prisma
+  - React Native
+  
 
 - 🛠️ Experience in working with utility-first CSS frameworks like Tailwind CSS.
 - 🎨 Familiar with UI component libraries such as Material-UI.
