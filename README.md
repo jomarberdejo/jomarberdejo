@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Jomar Berdejo - Web Developer 👨‍💻
 
-Pssionate about building interactive, user friendly and functional websites.
+Passionate about building interactive, user-friendly, and functional websites.
+
 ![Profile Views](https://komarev.com/ghpvc/?username=jomarberdejo&color=blue)
 
 ## 📫 Let's Connect!
